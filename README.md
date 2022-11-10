@@ -26,6 +26,7 @@ $ helm install eventrouter-kafka-producer krateo/eventrouter-kafka-producer --na
 
 ## Registering with the EventRouter
 
+
 To register this service with the [eventrouter](https://github.com/krateoplatformops/eventrouter) apply a manifest like this:
 
 ```yaml
