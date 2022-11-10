@@ -1,0 +1,1 @@
+curl -d @eventinfo.json -H 'Content-Type: application/json' http://localhost:9090/handle 

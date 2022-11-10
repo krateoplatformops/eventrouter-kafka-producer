@@ -1,0 +1,11 @@
+docker-compose.yaml
+.env
+AUTHORS.md
+CONTRIBUTING.md
+LICENSE
+NOTICE
+README.md
+manifests
+testdata/
+.github/
+chart/
