@@ -37,7 +37,7 @@ securityContext: {}
 
 podEnv:
   - name: EVENTROUTER_KAFKA_PRODUCER_PORT
-    value: 8080
+    value: "8080"
   - name: EVENTROUTER_KAFKA_PRODUCER_DEBUG
     value: "false"
   - name: EVENTROUTER_KAFKA_PRODUCER_BROKERS
